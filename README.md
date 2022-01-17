@@ -1,0 +1,6 @@
+TensorFlow-Course文件是吴恩达版本的tensorflow2学习资料
+note.ipynb是搭建模型笔记
+SH600519.csv是股票预测数据集
+gur-on-stocks/lstm-on-stocks是预测模型
+cifar-10数据集采用了普通cnn、alexnet、resnet模型
+代码在kaggle上在线运行更快
